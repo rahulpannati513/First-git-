@@ -3,3 +3,5 @@ Hello world !!!
 Take input from the user 
 
 add the values
+
+submit data to data base

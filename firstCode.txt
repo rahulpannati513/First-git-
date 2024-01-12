@@ -2,7 +2,4 @@ Java is a widely-used programming language that was developed by Sun Microsystem
 in the mid-1990s. It is known for its simplicity, platform independence, and robustness. Java is an 
 object-oriented language, which means it focuses on creating reusable code components called objects. 
 It also features automatic memory management through garbage collection, making it easier for developers 
-to write and maintain their code. Java has a vast ecosystem of libraries and frameworks, making it suitable
-for a wide range of applications, from desktop software to web development and mobile app development. 
-It is also the language of choice for building enterprise-level applications. Overall, Java's versatility
-and widespread adoption have made it one of the most popular programming languages in the world.
+to write and maintain their code. 
